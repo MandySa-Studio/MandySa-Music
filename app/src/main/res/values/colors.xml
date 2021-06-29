@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFEFEFEF</color>
+	<color name="colorAccent">#ff80c783</color>
+	<color name="searchUiColor">#FF4EC7A0</color>
+
+	<color name="default_checked_color">@color/colorAccent</color>
+	<color name="default_unchecked_color">#8A898E</color>
+</resources>

@@ -1,0 +1,2 @@
+include ':app','Tuke','Anna','AndroidSlidingUpPanel','MandySaX'
+rootProject.name = "MandySa Music"
